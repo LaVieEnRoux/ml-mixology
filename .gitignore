@@ -1,0 +1,4 @@
+*.html
+*.pyc
+*__pycache__
+data/diffords/scratch/*.json
